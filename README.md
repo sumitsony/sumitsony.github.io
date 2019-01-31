@@ -4,4 +4,4 @@
 # Idea was to use notebook to HTML which was already available in 2016 onwards 
 # But Github catched up soon enough.
 # I will start an io project soon.
-stay awesome __/\__ dear readers. 
+stay awesome __/ \__ dear readers. 
